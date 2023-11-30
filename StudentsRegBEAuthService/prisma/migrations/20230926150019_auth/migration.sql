@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "authModel" ALTER COLUMN "avatar" DROP NOT NULL,
+ALTER COLUMN "avatarID" DROP NOT NULL;
